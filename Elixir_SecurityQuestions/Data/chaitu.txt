@@ -1,1 +1,1 @@
-[{"Question":"What is your mother&#39;s maiden name?","Answer":"chaitu"},{"Question":"What high school did you attend?","Answer":"chaitu"},{"Question":"What was the mascot of your high school?","Answer":"chaitu"}]
+[{"Question":"What is your mother&#39;s maiden name?","Answer":"Maiden"},{"Question":"What high school did you attend?","Answer":"Akron"},{"Question":"What was the mascot of your high school?","Answer":"Greco"}]
