@@ -1,0 +1,14 @@
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.csprojAssemblyReference.cache
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.AssemblyInfoInputs.cache
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.AssemblyInfo.cs
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.csproj.CoreCompileInputs.cache
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/bin/Debug/netcoreapp3.1/Elixir_SecurityQuestions.deps.json
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/bin/Debug/netcoreapp3.1/Elixir_SecurityQuestions.runtimeconfig.json
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/bin/Debug/netcoreapp3.1/Elixir_SecurityQuestions.runtimeconfig.dev.json
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/bin/Debug/netcoreapp3.1/Elixir_SecurityQuestions.dll
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/bin/Debug/netcoreapp3.1/Elixir_SecurityQuestions.pdb
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.dll
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.pdb
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.genruntimeconfig.cache
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/krishnak/Projects/Elixir_SecurityQuestions/Elixir_SecurityQuestions/obj/Debug/netcoreapp3.1/Elixir_SecurityQuestions.csproj.CopyComplete
