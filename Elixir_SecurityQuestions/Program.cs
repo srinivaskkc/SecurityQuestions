@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -32,7 +32,7 @@ namespace Elixir_SecurityQuestions
         static void Main(string[] args)
         {
             Console.WriteLine("Security Questions");
-            Console.WriteLine("he user can stop the program at any point with CTRL - C");
+            Console.WriteLine("The user can stop the program at any point with CTRL - C");
             
             while (true)
             {
@@ -103,14 +103,20 @@ namespace Elixir_SecurityQuestions
             string jsonObject = File.ReadAllText(Path.Combine(@"../../../Data/", $"{name}.txt"));
             var qna = JsonConvert.DeserializeObject<List<QuestionAnswer>>(jsonObject);
             Console.WriteLine("Please answer one of security questions?");
+            var successfulAnswer = false;
             foreach (var q in qna)
             {
                 
                 Console.WriteLine(q.Question);
                 Console.Write("Answer: ");
                 if (q.Answer.Equals(Console.ReadLine()))
+                {
+                    successfulAnswer = true;
                     break;
+                }
+                   
             }
+            if(!successfulAnswer)
             Console.WriteLine("We ran out of Security Questions");
 
 
